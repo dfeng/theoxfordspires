@@ -1,24 +1,23 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:
+  extensions: ["tables"]
 pygments:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            The Oxford Spires
+tagline:          'Inspiring Young Minds'
+description:      ''
+url:              http://theoxfordspires.co.uk
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Derek Feng'
+  url:            http://whatwouldhartigan.com
 
 paginate:         5
 
 # Custom vars
 version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
