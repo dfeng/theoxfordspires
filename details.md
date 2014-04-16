@@ -12,7 +12,7 @@ August 03 - 16, 2014
 £3,950 for the two-week programme.
 
 <p class="message">
-Prices are exclusive of travel costs to the United Kingdom.
+Prices are exclusive of travel costs to and from the United Kingdom, arrival at and departure from Oxford.
 </p>
 
 A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at <a href="mailto:info@theoxfordspires.co.uk">info@theoxfordspires.co.uk</a> for more information.
