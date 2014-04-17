@@ -67,7 +67,7 @@ We are able to cater for any dietary requirements students may have. You will be
 
 **Do I need a visa to travel to the UK?**
 
-If you are a EU national, you will not need a visa. For all other nationalities, please go [here] (http://www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/) to check your requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
+If you are a EU national, you will not need a visa. For all other nationalities, please click [here] (http://www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/) to check your requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
 
 ## Frequently Asked Questions for Parents
 
