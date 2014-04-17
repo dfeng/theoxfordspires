@@ -110,4 +110,4 @@ The Oxford Spires has residential staff, and this means that there is someone on
 
 We also ask that all students under the age of 18 provide the contact details of one parent or guardian. 
 
-If you have other questions about the programme, please contact Ledia Pelivani at info@theoxfordspires.co.uk  
+If you have other questions about the programme, please contact Ledia Pelivani at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk)
