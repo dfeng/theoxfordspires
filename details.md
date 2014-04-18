@@ -30,6 +30,13 @@ A limited number of partial scholarships based on academic merit and financial n
 |19:00-22:00|Activity/Free Time             |
 |23:00      |Check in with the college      |
 
+### Eligibility
+
+Students need to:
+- be 16+ years old;
+- have completed Year 11 and achieved at least 2 As and 3Bs at GCSE or equivalent; and
+- achieved at least an overall band score of 5.0 in the IELTS or equivalent.
+
 ### Activities and Trips
 
 The Oxford Spires acknowledges the importance of striking a balance between academic work and extracurricular activities. We have planned an exciting range of activities for our students to ensure that there is something for everyone.
