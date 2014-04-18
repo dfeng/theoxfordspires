@@ -3,21 +3,13 @@ layout: page
 title: Contact Us
 ---
 
-**Address**
+**Address**: 45 Tower Bridge Road, London SE1 4TL, United Kingdom
 
-45 Tower Bridge Road, London SE1 4TL, United Kingdom
+**Telephone**: +44 (0) 2030049708
 
-**Telephone**
+**Email**: [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk).
 
-+44 (0) 2030049708
-
-**Email**
-
-[info@theoxfordspires.co.uk](info@theoxfordspires.co.uk).
-
-**Term Address**
-
-St. Catherine's College, Manor Road, Oxford OX1 3UJ, United Kingdom
+**Term Address**: St. Catherine's College, Manor Road, Oxford OX1 3UJ, United Kingdom
 
 **Map**
 ![Map](http://kosrae.stcatz.ox.ac.uk/modules/ckeditor/ckfinder/userfiles/files/Col_02A3_1080.jpg)
