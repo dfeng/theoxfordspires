@@ -65,4 +65,4 @@ Alexis is the tutor for the Introduction to Economics and Development Economics 
 
 In 2012, Alexis completed a BA in Philosophy, Politics and Economics in 2012 at the University of Durham. His dissertation won him a prize for best performance in Economics. He is also the recipient of the prestigious Economic and Social Research Council full scholarship to finish his PhD at the University of Oxford.
 
-In addition to English if you speak French, German, Spanish, or perhaps Russian you would be delighted to know that Alexis is fluent in all of them.
+In addition to English, if you speak French, German, Spanish, or perhaps Russian, you would be delighted to know that Alexis is fluent in all of them.
