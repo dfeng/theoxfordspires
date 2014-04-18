@@ -88,4 +88,6 @@ In the first part of the course, we consider the contributions that economic ana
 The International Economic Policy course focuses on international trade in goods, services, and capital. Students evaluate the strengths and weaknesses of global economic interdependence through trade. 
 
 In the first part of the course, students examine the big questions: (i) why do countries trade, (ii) what determines the patterns of trade, and (iii) how are the gains from trade distributed. Several economic models and relevant case studies are presented. In the second part of the course, students carry out an analysis of protectionism and strategic trade barriers to appreciate the repercussions of a country’s trade policies to itself as well as to the global market.
+
+[Apply Now]({{ site.baseurl }}/apply)
  
