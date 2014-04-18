@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 ---
+Our teachers are all Oxford and/or London School of Economics-educated with years of teaching experience and extensive knowledge in their area of expertise. Together we strive to help students to develop a critical mind and analytical skills necessary to succeed in university. We also hope to provide university students with the opportunity to explore a new specialised subject area. 
 
 ## Revi Panidha
 
