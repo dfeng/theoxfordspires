@@ -106,6 +106,7 @@ Parents and guardians are invited to attend the welcome reception for new studen
 Visits can also be made on weekends when students have free time, but parents and guardians should find out before arriving whether the student will be available on campus or not (as students may be out on day-trips).
 
 **What happens in the case of an accident or an emergency?**
+
 The Oxford Spires has residential staff, and this means that there is someone on site 24 hours a day. In addition, there is a 24-hour emergency phone number on campus, which both students and family/friends may call. This telephone number will be emailed to all students before the start of the programme, and will also be available on our website during the summer.
 
 We also ask that all students under the age of 18 provide the contact details of one parent or guardian. 
