@@ -16,5 +16,5 @@ title: Contact Us
 
 
 <p class="message">
-Disclaimer: The Oxford Spires is not affiliated with St. Catherine's College or University of Oxford but makes use of its facilities over the summer period.
+Disclaimer: The Oxford Spires is not affiliated with St. Catherine's College or the University of Oxford but makes use of its facilities over the summer period.
 </p>
