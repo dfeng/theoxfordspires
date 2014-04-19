@@ -9,9 +9,9 @@ title: Contact Us
 
 **Email**: [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk).
 
-**Term Address**: St. Catherine's College, Manor Road, Oxford OX1 3UJ, United Kingdom
+**Term-time Address**: St. Catherine's College, Manor Road, Oxford OX1 3UJ, United Kingdom
 
-**Map**
+**Map**:
 ![Map](http://kosrae.stcatz.ox.ac.uk/modules/ckeditor/ckfinder/userfiles/files/Col_02A3_1080.jpg)
 
 
