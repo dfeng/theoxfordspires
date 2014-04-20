@@ -4,6 +4,7 @@ title: About Us
 ---
 Our teachers are all Oxford and/or London School of Economics-educated with years of teaching experience and extensive knowledge in their area of expertise. Together we strive to help students to develop a critical mind and analytical skills necessary to succeed in university. We also hope to provide university students with the opportunity to explore a new specialised subject area. 
 
+---
 ## Revi Panidha
 
 ![Revi](https://dl.dropboxusercontent.com/u/516841/GlobalME/revi.jpg)
@@ -17,6 +18,7 @@ His love for teaching and knowledge comes at a young age and was cultivated by h
 
 Revi is currently studying for an MPhil in Economics at the University of Oxford while still being the head tutor for Axiom Tutoring.
 
+---
 ## Shu Shu Wong
 
 ![Shu Shu](https://dl.dropboxusercontent.com/u/516841/GlobalME/shu.jpg)
