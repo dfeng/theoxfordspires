@@ -3,8 +3,6 @@ layout: page
 title: FAQs
 ---
 
-## Frequently Asked Questions for Students
-
 **I want to change my core course and/or elective course, is this possible?**
 
 If you wish to change your course selections before the start of the programme, please do not hesitate to contact us. You can still change your course selection up until the Wednesday of the first week. However, changes to courses are always subject to availability. 
@@ -68,8 +66,6 @@ We are able to cater for any dietary requirements students may have. You will be
 **Do I need a visa to travel to the UK?**
 
 If you are a EU national, you will not need a visa. For all other nationalities, please click [here] (http://www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/) to check your requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
-
-## Frequently Asked Questions for Parents
 
 **What do the course fees include?**
 
