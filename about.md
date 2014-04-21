@@ -32,6 +32,7 @@ In 2013, she co-founded GlobalME Tutoring Inc., an online tutoring platform set 
 
 Shu Shu is currently studying for a Master of Business Administration (MBA) in Legal Services and will start work as a lawyer at an international law firm in London starting September 2014.
 
+---
 ## Eduard Alia
 
 ![Edi](https://dl.dropboxusercontent.com/u/516841/GlobalME/edi.jpg)
@@ -45,6 +46,7 @@ Throughout his education, Eduard was involved in academic research acting as Res
 
 Eduard has interned and worked with some of the leading international law firms. Most recently, he completed his traineeship at the European Commission.
 
+---
 ## Ledia Pelivani 
 
 ![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
@@ -57,6 +59,7 @@ Throughout her high school and university education, Ledia was involved in numer
 
 Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she graduated in May 2012.
 
+---
 ## Alexis Grigorieff
 
 ![Alexis](https://dl.dropboxusercontent.com/u/516841/GlobalME/alexis.jpg)
