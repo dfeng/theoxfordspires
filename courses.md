@@ -5,7 +5,7 @@ title: Courses
 
 Students will stay at St. Catherine’s College. This is an ideal location as it is only a one-minute walk to both the Economics and Law Departments of the University of Oxford.
 
-Teaching for the two-week programme will include: 15 hours of class time in small groups of 6-12 students and 1.5 hours of individual interaction with a faculty member.
+Teaching for the two-week programme will include: 15 hours of class time in small groups of 6-12 students and 1.5 hours of individual interaction with a faculty member per week.
 
 Students must choose a core course and an elective course.
 
