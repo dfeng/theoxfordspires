@@ -7,15 +7,13 @@ title: The Details
 
 August 03 - 16, 2014
 
-### Price
+### Eligibility
 
-£3,950 for the two-week programme.
+Students need to:
 
-<p class="message">
-Prices are exclusive of travel costs to and from the United Kingdom, arrival at and departure from Oxford.
-</p>
-
-A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk) for more information.
+- be 16+ years old;
+- have completed Year 11 and achieved at least 2 As and 3Bs at GCSE or equivalent; and
+- achieved at least an overall band score of 5.0 in the IELTS or equivalent.
 
 ### Sample Schedule
 
@@ -30,13 +28,15 @@ A limited number of partial scholarships based on academic merit and financial n
 |19:00-22:00|Activity/Free Time             |
 |23:00      |Check in with the college      |
 
-### Eligibility
+### Price
 
-Students need to:
+£3,950 for the two-week programme.
 
-- be 16+ years old;
-- have completed Year 11 and achieved at least 2 As and 3Bs at GCSE or equivalent; and
-- achieved at least an overall band score of 5.0 in the IELTS or equivalent.
+<p class="message">
+Prices are exclusive of travel costs to and from the United Kingdom, arrival at and departure from Oxford.
+</p>
+
+A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk) for more information.
 
 ### Activities and Trips
 
