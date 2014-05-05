@@ -69,7 +69,7 @@ The course begins with an analysis of the structure of the international society
 
 The International History course provides an introduction of the major events since 1890 that have shaped our world to this day. 
 
-The course commences with an analysis of the ‘globalisation’ of the European balance-of-power system after 1890 through the emergence of extra-European great powers, including Russia-in-Asia, Japan and the United States. Students also learn about the crisis and collapse of this system in the First World War. The second part of the course covers the lead up to the outbreak of the Second World War, and familiarises students with the birth of a bipolar wolrd dominated by the United States and the Soviet Union.
+The course commences with an analysis of the ‘globalisation’ of the European balance-of-power system after 1890 through the emergence of extra-European great powers, including Russia-in-Asia, Japan and the United States. Students also learn about the crisis and collapse of this system in the First World War. The second part of the course covers the lead up to the outbreak of the Second World War, and familiarises students with the birth of a bipolar world dominated by the United States and the Soviet Union.
 
 ### <a name="8">The Economics of the European Union</a>
 
