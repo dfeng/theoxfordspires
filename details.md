@@ -12,7 +12,7 @@ August 03 - 16, 2014
 Students need to:
 
 - be 16+ years old; 
-- have completed Year 11 and achieved at least 2 As and 3Bs at GCSE or equivalent; and
+- have completed Year 11 and achieved at least 2As and 3Bs at GCSE or equivalent; and
 - achieved at least an overall band score of 5.0 in the IELTS or equivalent.
 
 ### Sample Schedule
