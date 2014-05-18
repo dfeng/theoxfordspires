@@ -2,14 +2,27 @@
 markdown:         redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments:         true
+# pygments:         true
 
 # Permalinks
 permalink:        pretty
 
+# Defaults
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#     values:
+#       lang: en
+#   -
+#     scope:
+#       path: "cn"
+#     values:
+#       lang: cn
+
 # Setup
-title:            The Oxford Spires
-tagline:          'Inspiring Young Minds'
+title: The Oxford Spires
+tagline: 'Inspiring Young Minds'
 description:      ''
 baseurl:          ''
 url:              http://theoxfordspires.co.uk
@@ -18,7 +31,7 @@ author:
   name:           'Derek Feng'
   url:            http://whatwouldhartigan.com
 
-paginate:         5
+# paginate:         5
 
 # Custom vars
 version:          2.0.0

@@ -2,10 +2,43 @@
   <div class="container sidebar-sticky">
     <!-- <img src="https://dl.dropboxusercontent.com/u/516841/GlobalME/logo.png" /> -->
     <div class="sidebar-about">
+    {% if page.lang == 'cn' %}
+      <h1><a href="{{ site.baseurl }}/cn/">{{ site.title }}</a></h1>
+    {% else %}
       <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    {% endif %}
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    {% if page.lang == 'cn' %}
+    <ul class="sidebar-nav">
+<!--       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="/">Home</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/为何要选择牛津/">为何要选择牛津</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/详细质料/">详细质料</a>
+      </li>
+<!--       <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/关于我们/">关于我们</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/课程介绍/">课程介绍</a>
+      </li>
+<!--       <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/FAQs/">FAQs</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/如何申请/">如何申请</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/cn/联系我们/">联系我们</a>
+      </li>
+    </ul>
+    <p>&copy; {{ site.time | date: '%Y' }}.<br />"牛津思锐暑期学校"版权所有。牛津思锐乃Axiom Tutoring Ltd.与GlobalME Tutoring Inc. 共同携手创办之教育机构。</p>
+    {% else %}
     <ul class="sidebar-nav">
 <!--       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
@@ -49,5 +82,6 @@
     </ul>
 
     <p>Copyright &copy; {{ site.time | date: '%Y' }}.<br />The Oxford Spires, a business venture of Axiom Tutoring Ltd. in association with GlobalME Tutoring Inc.</p>
+    {% endif %}
   </div>
 </div>

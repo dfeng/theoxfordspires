@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 首页
+lang: cn
 ---
 
 ![](https://dl.dropboxusercontent.com/u/516841/GlobalME/ox1.jpg)
@@ -42,4 +43,4 @@ The Oxford Spires is a specialised summer school for students aged 16 and above 
 
 [![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklet.png)](https://dl.dropboxusercontent.com/u/516841/GlobalME/Oxford%20Spires%20Brochure%20%282014%29.pdf)
 
-[立刻申请]({{ site.baseurl }}/apply)
+[立刻申请]({{ site.baseurl }}/cn/如何申请)
