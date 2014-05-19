@@ -4,7 +4,7 @@
     <div class="sidebar-about">
     {% if page.lang == 'cn' %}
       <h1><a href="{{ site.baseurl }}/cn/">{{ site.title }}</a></h1>
-    {% elseif page.lang == 'hk' %}
+    {% elsif page.lang == 'hk' %}
       <h1><a href="{{ site.baseurl }}/hk/">{{ site.title }}</a></h1>
     {% else %}
       <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
@@ -40,7 +40,7 @@
       </li>
     </ul>
     <p>&copy; {{ site.time | date: '%Y' }}.<br />"牛津思锐暑期学校"版权所有。牛津思锐乃Axiom Tutoring Ltd.与GlobalME Tutoring Inc. 共同携手创办之教育机构。</p>
-    {% elseif page.lang == 'hk' %}
+    {% elsif page.lang == 'hk' %}
     <ul class="sidebar-nav">
 <!--       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
