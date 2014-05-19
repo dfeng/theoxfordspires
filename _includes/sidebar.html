@@ -4,6 +4,8 @@
     <div class="sidebar-about">
     {% if page.lang == 'cn' %}
       <h1><a href="{{ site.baseurl }}/cn/">{{ site.title }}</a></h1>
+    {% elseif page.lang == 'hk' %}
+      <h1><a href="{{ site.baseurl }}/hk/">{{ site.title }}</a></h1>
     {% else %}
       <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
     {% endif %}
@@ -35,6 +37,34 @@
       </li>
       <li class="sidebar-nav-item">
         <a href="{{ site.baseurl }}/cn/联系我们/">联系我们</a>
+      </li>
+    </ul>
+    <p>&copy; {{ site.time | date: '%Y' }}.<br />"牛津思锐暑期学校"版权所有。牛津思锐乃Axiom Tutoring Ltd.与GlobalME Tutoring Inc. 共同携手创办之教育机构。</p>
+    {% elseif page.lang == 'hk' %}
+    <ul class="sidebar-nav">
+<!--       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="/">Home</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/为何要选择牛津/">为何要选择牛津</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/入学说明/">入学说明</a>
+      </li>
+<!--       <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/关于我们/">关于我们</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/课程介绍/">课程介绍</a>
+      </li>
+<!--       <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/FAQs/">FAQs</a>
+      </li> -->
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/如何申请/">如何申请</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/hk/联系我们/">联系我们</a>
       </li>
     </ul>
     <p>&copy; {{ site.time | date: '%Y' }}.<br />"牛津思锐暑期学校"版权所有。牛津思锐乃Axiom Tutoring Ltd.与GlobalME Tutoring Inc. 共同携手创办之教育机构。</p>
