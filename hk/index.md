@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 首頁
-lang: cn
+lang: hk
 ---
 
 ![](https://dl.dropboxusercontent.com/u/516841/GlobalME/ox1.jpg)
