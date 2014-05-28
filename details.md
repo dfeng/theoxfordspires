@@ -11,9 +11,8 @@ August 03 - 16, 2014
 
 Students need to:
 
-- be 16+ years old; 
-- have completed Year 11; and
-- achieved at least an overall band score of 5.0 in the IELTS or equivalent.
+- be 16+ years old; and
+- a good command of the English language. 
 
 ### Sample Schedule
 
