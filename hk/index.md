@@ -41,6 +41,6 @@ lang: hk
 欲知詳情, 請查看我們下面的手冊！點擊下載PDF文件。
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklethk.png)](https://dl.dropboxusercontent.com/u/516841/GlobalME/The%20Oxford%20Spires%20brochure%20%28Chinese%20-%20Traditional%29.pdf)
+[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklethk.png)](https://dl.dropboxusercontent.com/u/516841/GlobalME/The%20Oxford%20Spires%20%28Traditional%20Chinese%29.pdf)
 
 [立刻申請]({{ site.baseurl }}/cn/如何申請)
