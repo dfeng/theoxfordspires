@@ -33,20 +33,6 @@ In 2013, she co-founded GlobalME Tutoring Inc., an online tutoring platform set 
 Shu Shu is currently studying for a Master of Business Administration (MBA) in Legal Services and will work as a lawyer at an international law firm in London starting September 2014.
 
 ---
-## Eduard Alia
-
-![Edi](https://dl.dropboxusercontent.com/u/516841/GlobalME/edi.jpg)
-
-- Master of Laws (LL.M) in International Legal Studies, New York University
-- Bachelor of Laws (LL.B), Brunel University
-
-Eduard is the Programme Director of the Oxford Spires. His experience in teaching began many years ago when he used to teach English to children in developing countries. As part of a pro bono project whilst at Brunel University, Eduard started to mentor and tutor struggling law students across London. He continues to work as a freelance law tutor as teaching remains as one of his main passions.
-
-Throughout his education, Eduard was involved in academic research acting as Research Assistant to Professors J. Castellino and D. Keane during 2008 and as Teaching Assistant to Professor T. Frank whilst at NYU School of Law. Currently, he acts as a Gutenberg Research Fellow in a joint project between University College London and Ecole Nationale d’Administration (Strasbourg) focusing on the making of regulation. He regularly presents at international conferences and seminars.
-
-Eduard has interned and worked with some of the leading international law firms. Most recently, he completed his traineeship at the European Commission.
-
----
 ## Ledia Pelivani 
 
 ![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
