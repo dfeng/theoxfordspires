@@ -30,7 +30,7 @@ Shu Shu is the Dean of Faculty and Head Tutor for Law and International Affairs 
 
 In 2013, she co-founded GlobalME Tutoring Inc., an online tutoring platform set up with the primary aim of connecting students with tutors from the most prestigious universities in the world. GlobalME Tutoring’s students include secondary as well as university students residing in Hong Kong, China, Canada, the United Kingdom and the United States.
 
-Shu Shu is currently studying for a Master of Business Administration (MBA) in Legal Services and will work as a lawyer at an international law firm in London starting September 2014.
+Shu Shu is currently studying for a Master of Business Administration (MBA) in Legal Services and will work as a trainee solicitor at an international law firm in London starting September 2014.
 
 ---
 ## Ledia Pelivani 
