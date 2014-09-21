@@ -5,7 +5,7 @@ title: The Details
 
 ### Dates
 
-August 03 - 16, 2014
+August 02 - 15, 2014
 
 ### Eligibility
 
