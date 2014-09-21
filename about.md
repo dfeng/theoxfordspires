@@ -33,19 +33,6 @@ In 2013, she co-founded GlobalME Tutoring Inc., an online tutoring platform set 
 Shu Shu is currently studying for a Master of Business Administration (MBA) in Legal Services and will work as a trainee solicitor at an international law firm in London starting September 2014.
 
 ---
-## Ledia Pelivani 
-
-![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
-
-- Bachelor of Arts in Economics and Mathematics, American University in Bulgaria
-
-Ledia is the Logistics Coordinator of the Oxford Spires. She is also involved in the marketing and recruitment process of students for the Oxford Spires.
-
-Throughout her high school and university education, Ledia was involved in numerous debate clubs and took part in the International Debate Competition organised by the International Debate Education Association. She also participated in the first Model United Nations organised in Albania. In her spare time, she continues to cultivate her passion for languages by serving as a freelance interpreter in English, Italian and French and volunteering at the Tourist Information Point in her hometown. While her teaching experience consists mainly of helping peers at university with their mathematics courses, she has recently started to provide support to two local high school students with their Entrepreneurship Junior Achievement Programme. She teaches the basics of economics and helping high school students to build their entrepreneurship ideas.
-
-Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she graduated in May 2012.
-
----
 ## Alexis Grigorieff
 
 ![Alexis](https://dl.dropboxusercontent.com/u/516841/GlobalME/alexis.jpg)
@@ -58,3 +45,16 @@ Alexis is the tutor for the Introduction to Economics and Development Economics 
 In 2012, Alexis completed a BA in Philosophy, Politics and Economics in 2012 at the University of Durham. His dissertation won him a prize for best performance in Economics. He is also the recipient of the prestigious Economic and Social Research Council full scholarship to finish his PhD at the University of Oxford.
 
 In addition to English, if you speak French, German, Spanish, or perhaps Russian, you would be delighted to know that Alexis is fluent in all of them.
+
+---
+## Ledia Pelivani 
+
+![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
+
+- Bachelor of Arts in Economics and Mathematics, American University in Bulgaria
+
+Ledia is the Logistics Coordinator of the Oxford Spires. She is also involved in the marketing and recruitment process of students for the Oxford Spires.
+
+Throughout her high school and university education, Ledia was involved in numerous debate clubs and took part in the International Debate Competition organised by the International Debate Education Association. She also participated in the first Model United Nations organised in Albania. In her spare time, she continues to cultivate her passion for languages by serving as a freelance interpreter in English, Italian and French and volunteering at the Tourist Information Point in her hometown. While her teaching experience consists mainly of helping peers at university with their mathematics courses, she has recently started to provide support to two local high school students with their Entrepreneurship Junior Achievement Programme. She teaches the basics of economics and helping high school students to build their entrepreneurship ideas.
+
+Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she graduated in May 2012.
