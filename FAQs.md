@@ -63,6 +63,26 @@ Breakfast will be served in College every morning, whilst we will make sure to g
 
 We are able to cater for any dietary requirements students may have. You will be asked to fill in a form when you receive the Welcome Pack and you must email it back to us at least 30 days before the start date of the programme so that we can cater for your requirements. 
 
+**Can I be a non-residential student if I am not from Oxford?**
+No, you will only be classified as a non-residential student if your permanent address is in Oxford, United Kingdom.
+
+What is the difference between residential and non-residential students?
+The main difference is that residential students board at St. Catherine’s College whilst non-residential students return home after evening activities each night, and re-join the group in the mornings after breakfast. 
+
+**If I need to cancel my booking, will I get my money back?**
+
+We understand that students may be forced to cancel their bookings for a number of reasons. The Oxford Spires Summer School’s terms and conditions for refunds are as follows:
+
+Any cancellation must be received in writing and can only be on the following terms:
+•	No refund of the £790 deposit will be made under any circumstances;
+•	For cancellations before the course start date, the remaining balance of the course fee less the deposit amount will be proportionally refunded as per the table below:
+
+Date	% refund
+Up to April 1	100
+April 2 to May 15	50
+May 16 to June 1	10
+June 2 onwards	0
+
 **Do I need a visa to travel to the UK?**
 
 If you are a EU national, you will not need a visa. For all other nationalities, please click [here] (http://www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/) to check your requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
