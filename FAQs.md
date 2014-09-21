@@ -64,6 +64,7 @@ Breakfast will be served in College every morning, whilst we will make sure to g
 We are able to cater for any dietary requirements students may have. You will be asked to fill in a form when you receive the Welcome Pack and you must email it back to us at least 30 days before the start date of the programme so that we can cater for your requirements. 
 
 **Can I be a non-residential student if I am not from Oxford?**
+
 No, you will only be classified as a non-residential student if your permanent address is in Oxford, United Kingdom.
 
 What is the difference between residential and non-residential students?
