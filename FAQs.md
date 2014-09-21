@@ -77,11 +77,12 @@ Any cancellation must be received in writing and can only be on the following te
 •	No refund of the £790 deposit will be made under any circumstances;
 •	For cancellations before the course start date, the remaining balance of the course fee less the deposit amount will be proportionally refunded as per the table below:
 
-Date	% refund
-Up to April 1	100
-April 2 to May 15	50
-May 16 to June 1	10
-June 2 onwards	0
+|Date               |% refund                   |
+|-------------------|---------------------------|
+|Up to April 1      |100                        |
+|April 2 to May 15  |50                         |
+|May 16 to June 1   |10                         |
+|June 2 onwards     |0                          |
 
 **Do I need a visa to travel to the UK?**
 
