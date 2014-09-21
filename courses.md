@@ -12,18 +12,18 @@ Students must choose a core course and an elective course.
 The core courses are:
 
  - [Introduction to Economics](#1)
- - [Introduction to International Law](#2)
- - [Entrepreneurship](#3)
+ - [Introduction to Law](#2)
+ - [The Business Mastermind: Economics and Entrepreneurship](#3)
+ - [English and Communication] (#4)
 
 The elective courses are:
 
- - [Introduction to the English Legal System](#4)
  - [International Human Rights Law](#5)
  - [International Relations](#6)
  - [International History](#7)
- - [The Economics of the European Union](#8)
+ - [International Trade and Economic Policy](#8)
  - [Development Economics](#9)
- - [International Economic Policy](#10)
+ - [The Art of Acting and Communication](#10)
 
 ## Core Courses
 
@@ -33,17 +33,18 @@ The Introduction to Economics course covers basic economic theory and techniques
 
 The course starts with 5 lectures on microeconomics, covering individual decision-making, how markets operate through the concepts of supply and demand, and the role of government and taxation. The second part of the course contains 5 lectures on macroeconomics, covering the ways in which the overall economy works, economic growth, inflation, why countries trade with each other and the rationale and impact of government macroeconomic policies. 
 
-### <a name="2">Introduction to International Law</a>
+### <a name="2">Introduction to Law</a>
 
-The Introduction to International Law course provides an overview of the international legal system and examines the key concepts, principles, institutions and debates that shape international law today. Students participate in interactive classes, discussions, debates, group activities and mock trials.
+The Introduction to Law course is designed to provide an overview of the institutions, personnel and procedures of the English Legal System and the international legal system. Students participate in interactive classes, discussions, debates, group activities and mock trials.
+ 
+The course begins with a brief analysis of the history of the English Legal System and the different sources of law. Students learn about the way legislation is made and passed as well as the different types of legislation. The course also examines the court system of England and Wales and introduces the range of personnel within the legal system, including the role of judges, the jury, barristers and solicitors. The second part of the course begins with an analysis of how international law is made and how it relates to national systems. Students then evaluate a number of topical issues of global concern, including the use of force and the protection of human rights. 
 
-The course begins with an analysis of how international law is made and how it relates to national legal systems. Students then learn about the bases of jurisdiction in international law and the privileges and immunities awarded to heads of state. The second part of the course examines a number of topical issues of global concern, including the use of force and the protection of human rights. 
-
-### <a name="3">Entrepreneurship</a>
+### <a name="3">The Business Mastermind: Economics and Entrepreneurship</a>
 
 This is a very hands-on course where students learn about entrepreneurship and how to develop a business idea from scratch. Theory will be presented as a way to help advance students’ business ideas. At the end of the course, students will have a taste of what it practically means to be an entrepreneur, and will understand the challenges and rewards that are involved in the process.
+ 
+During this course, students master the important concepts in economics that every business person must understand. In the first part of the course, students brainstorm a business idea and learn how to write a business plan. In the second part of the course, students learn the main concepts of marketing, accounting, negotiation, pitching a business idea and the art of influence. More importantly, during this time, students execute the business idea. Students take an active role as a social entrepreneur as all profits will go to their preferred local charity in Oxford. In 2014, the students who participated in this course were featured in the local newspaper for their excellent work in raising money for ROSY, a local charity that helps sick youngsters.  
 
-During this course, students master the main concepts of entrepreneurship through attending workshops in Economics, Finance and Venture Capital Funding as well as visiting the Saïd Business School. In the first part of the course, students brainstorm a business idea, learn how to write a business plan, and carry out a SWOT analysis. In the second part of the course, students learn the main concepts of marketing, accounting, negotiation, pitching a business idea and the art of influence. More importantly, students are expected to execute their business idea during the course of the summer school, using the school's start-up funds provided for this purpose. All profits from their venture are donated to the students' preferred Oxford charity.
 
 ## Elective Courses
 
