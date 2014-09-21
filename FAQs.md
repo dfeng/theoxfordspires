@@ -75,7 +75,9 @@ The main difference is that residential students board at St. Catherine’s Coll
 We understand that students may be forced to cancel their bookings for a number of reasons. The Oxford Spires Summer School’s terms and conditions for refunds are as follows:
 
 Any cancellation must be received in writing and can only be on the following terms:
+
 •	No refund of the £790 deposit will be made under any circumstances;
+
 •	For cancellations before the course start date, the remaining balance of the course fee less the deposit amount will be proportionally refunded as per the table below:
 
 |Date               |% refund                   |
