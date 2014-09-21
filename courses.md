@@ -81,7 +81,7 @@ In the first part of the course, students examine the big questions: (i) why do 
 
 ### <a name="9">The Art of Acting and Communication</a>
 
-TBC
+To be confirmed.
 
 [Apply Now]({{ site.baseurl }}/apply)
  
