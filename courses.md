@@ -81,7 +81,12 @@ In the first part of the course, students examine the big questions: (i) why do 
 
 ### <a name="9">The Art of Acting and Communication</a>
 
-To be confirmed.
+The Art of Acting and Communication is a course designed to help students to understand and control their presence and voice on stage. It will also allow them to open, explore and expand the use of their imagination. This course is designed to help students gain confidence and provide them with the necessary tools they will need whenever acting on stage, during interviews or speaking in public.
+
+In order to express their opinions and point of views correctly, students will learn how to connect their thoughts and emotions through the use of their bodies. During class, we will be working on different relaxation and breathing techniques, movement, expression and voice exercises, which will allow students to use their bodies without harming themselves and to communicate better to their audiences.
+
+We will be working with different types of texts and the course will finish with a little showcase of our work.
+
 
 [Apply Now]({{ site.baseurl }}/apply)
  
