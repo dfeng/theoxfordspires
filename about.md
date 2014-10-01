@@ -47,6 +47,17 @@ In 2012, Alexis completed a BA in Philosophy, Politics and Economics in 2012 at 
 In addition to English, if you speak French, German, Spanish, or perhaps Russian, you would be delighted to know that Alexis is fluent in all of them.
 
 ---
+## Maite Jauregui
+
+- BSc in Psychology, Universidad Pontificia de Comillas
+
+Maite is the tutor for the Art of Acting and Communication.  Maite has been balancing her time between her acting and her psychology studies. She studied a five-year psychology degree specialising in children and education and she has always tried to combine this with her passion for the arts. She taught drama at the King’s College Madrid summer camps as well as working as a private tutor, teaching English in Spain and Spanish in London. She also works as a music assistant during music workshops for children at the International Music Festival in Navarra every summer.
+
+In 2010 she moved to London to train at the Royal Academy of Dramatic Arts and after that has worked in several plays including Don Quixote (Dir. by Ted Craig. Warehouse Theatre) Antigone (Dir. Yorgos Karamalegos. St Lukes church in London and Unity theatre Liverpool) and ‘The house of Bernardeta’ (Dir. Jorge de Juan. Playhouse Theatre) as well as numerous short films, Corporate and music videos.
+
+She is currently working on a new project, alongside various other artists living in London, called the Spanish Theatre Company, with a commitment to share Spanish classical and modern theatre alike to British and wider audiences.
+
+---
 ## Ledia Pelivani 
 
 ![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
