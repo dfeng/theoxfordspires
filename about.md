@@ -58,7 +58,7 @@ In 2010 she moved to London to train at the Royal Academy of Dramatic Arts and a
 She is currently working on a new project, alongside various other artists living in London, called the Spanish Theatre Company, with a commitment to share Spanish classical and modern theatre alike to British and wider audiences.
 
 ---
-## Ledia Pelivani 
+## Ledia Pelivani
 
 ![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
 
@@ -69,3 +69,12 @@ Ledia is the Logistics Coordinator of the Oxford Spires. She is also involved in
 Throughout her high school and university education, Ledia was involved in numerous debate clubs and took part in the International Debate Competition organised by the International Debate Education Association. She also participated in the first Model United Nations organised in Albania. In her spare time, she continues to cultivate her passion for languages by serving as a freelance interpreter in English, Italian and French and volunteering at the Tourist Information Point in her hometown. While her teaching experience consists mainly of helping peers at university with their mathematics courses, she has recently started to provide support to two local high school students with their Entrepreneurship Junior Achievement Programme. She teaches the basics of economics and helping high school students to build their entrepreneurship ideas.
 
 Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she graduated in May 2012.
+
+## Alice Wong
+
+- Bachelor of Arts in Politics and East European Studies, University College London
+
+Alice is the Assistant Programme Coordinator of the Oxford Spires Summer School. At a young age, she started to tutor English and Mandarin as well as mentoring dozens of students in Hong Kong. She also has experience teaching English to students in China, such as Yunnan and Tibet. In addition, Alice has had the opportunity to visit and teach at international and local primary schools for students with special needs in Hong Kong. She has dedicated a great amount of time to servicing the community, and her caring nature and accomplishments have been recognised by the English Schools Foundation through the Chairman’s Award for Excellence in 2013. 
+
+Alice has continued to conduct tutoring lessons for her students online through Skype after moving to London in 2013 to pursue her tertiary studies at the University College London.
+
