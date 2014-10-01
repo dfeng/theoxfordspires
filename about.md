@@ -49,7 +49,7 @@ In addition to English, if you speak French, German, Spanish, or perhaps Russian
 ---
 ## Maite Jauregui
 
-- BSc in Psychology, Universidad Pontificia de Comillas
+- Bachelor of Science (BSc) in Psychology, Universidad Pontificia de Comillas
 
 Maite is the tutor for the Art of Acting and Communication.  Maite has been balancing her time between her acting and her psychology studies. She studied a five-year psychology degree specialising in children and education and she has always tried to combine this with her passion for the arts. She taught drama at the King’s College Madrid summer camps as well as working as a private tutor, teaching English in Spain and Spanish in London. She also works as a music assistant during music workshops for children at the International Music Festival in Navarra every summer.
 
@@ -62,7 +62,7 @@ She is currently working on a new project, alongside various other artists livin
 
 ![Ledia](https://dl.dropboxusercontent.com/u/516841/GlobalME/ledia.jpg)
 
-- Bachelor of Arts in Economics and Mathematics, American University in Bulgaria
+- Bachelor of Arts in Economics and Mathematics (BA), American University in Bulgaria
 
 Ledia is the Logistics Coordinator of the Oxford Spires. She is also involved in the marketing and recruitment process of students for the Oxford Spires.
 
@@ -72,7 +72,7 @@ Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she grad
 
 ## Alice Wong
 
-- Bachelor of Arts in Politics and East European Studies, University College London
+- Bachelor of Arts (BA) in Politics and East European Studies, University College London
 
 Alice is the Assistant Programme Coordinator of the Oxford Spires Summer School. At a young age, she started to tutor English and Mandarin as well as mentoring dozens of students in Hong Kong. She also has experience teaching English to students in China, such as Yunnan and Tibet. In addition, Alice has had the opportunity to visit and teach at international and local primary schools for students with special needs in Hong Kong. She has dedicated a great amount of time to servicing the community, and her caring nature and accomplishments have been recognised by the English Schools Foundation through the Chairman’s Award for Excellence in 2013. 
 
