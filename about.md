@@ -74,7 +74,7 @@ Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she grad
 
 ## Alice Wong
 
-![Alice](https://dl.dropboxusercontent.com/u/516841/GlobalME/alice.png)
+![Alice](https://dl.dropboxusercontent.com/u/516841/GlobalME/alice2.jpg)
 
 - Bachelor of Arts (BA) in Politics and East European Studies, University College London
 
