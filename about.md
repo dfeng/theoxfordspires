@@ -49,6 +49,8 @@ In addition to English, if you speak French, German, Spanish, or perhaps Russian
 ---
 ## Maite Jauregui
 
+![Maite](https://dl.dropboxusercontent.com/u/516841/GlobalME/maite.jpg)
+
 - Bachelor of Science (BSc) in Psychology, Universidad Pontificia de Comillas
 
 Maite is the tutor for the Art of Acting and Communication.  Maite has been balancing her time between her acting and her psychology studies. She studied a five-year psychology degree specialising in children and education and she has always tried to combine this with her passion for the arts. She taught drama at the King’s College Madrid summer camps as well as working as a private tutor, teaching English in Spain and Spanish in London. She also works as a music assistant during music workshops for children at the International Music Festival in Navarra every summer.
@@ -71,6 +73,8 @@ Throughout her high school and university education, Ledia was involved in numer
 Ledia has been working as the Sales Manager of Axiom Tutoring Ltd since she graduated in May 2012.
 
 ## Alice Wong
+
+![Alice](https://dl.dropboxusercontent.com/u/516841/GlobalME/alice.png)
 
 - Bachelor of Arts (BA) in Politics and East European Studies, University College London
 
