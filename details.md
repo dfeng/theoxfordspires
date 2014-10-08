@@ -30,6 +30,7 @@ Students need to:
 ### Price
 
 Residential:     £3,950 
+
 Non-residential: £2,450
 
 <p class="message">
