@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/ox1.jpg)
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp1.jpg)
 
 <p class="lead">
 The Oxford Spires is a specialised summer school for students aged 16 and above with an exclusive focus on Economics, Business, Law and International Affairs. Our aim is to provide students who hope to attend a top university with a head start!

@@ -3,6 +3,10 @@ layout: page
 title: The Details
 ---
 
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp2.jpg)
+
+## Oxford Spires Summer School Schedule 2014
+
 ### Dates
 
 August 02 - 15, 2014
