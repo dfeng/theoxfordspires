@@ -4,7 +4,9 @@ title: Apply
 ---
 
 <!-- To apply, please fill out this [form](https://dl.dropboxusercontent.com/u/516841/GlobalME/Application%20Form.pdf) and email the completed form to [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk). -->
-To apply, please fill in this application  [form](https://docs.google.com/forms/d/1Jz-lY1UDlEUDIE48JcEPG4rWDdj0BjsRBo9FK6fXGZQ/viewform?usp=send_form) to register your interest. Shortly after you have submitted the form, one of our representatives will contact you with further information on the application process and will provide you with a full application form. 
+To apply, please fill in this application  [form](https://docs.google.com/forms/d/1Jz-lY1UDlEUDIE48JcEPG4rWDdj0BjsRBo9FK6fXGZQ/viewform?usp=send_form) to register your interest. 
+
+Shortly after you have submitted the form, one of our representatives will contact you with further information on the application process and will provide you with a full application form. 
 
 ### Visas
 
