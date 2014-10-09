@@ -45,8 +45,10 @@ A limited number of partial scholarships based on academic merit and financial n
 
 ### Activities and Trips
 
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp3.jpg)
+
 The Oxford Spires acknowledges the importance of striking a balance between academic work and extracurricular activities. We have planned an exciting range of activities for our students to ensure that there is something for everyone.
 
 Activities will include a day-trip to London, a sports day, visits to colleges, various Oxford seasonal plays, dancing lessons, Public Speaker Events and more!
 
-[Apply Now]({{ site.baseurl }}/apply)
+<a class="button" href="{{ site.baseurl }}/apply">Apply Now</a>
