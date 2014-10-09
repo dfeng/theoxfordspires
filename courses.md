@@ -3,6 +3,8 @@ layout: page
 title: Courses
 ---
 
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp5.jpg)
+
 Students will stay at St. Catherine’s College. This is an ideal location as it is only a one-minute walk to both the Economics and Law Departments of the University of Oxford.
 
 Teaching for the two-week programme will include: 15 hours of class time in small groups of 5-8 students and 1.5 hours of individual interaction with a faculty member per week.
@@ -88,5 +90,4 @@ In order to express their opinions and point of views correctly, students will l
 We will be working with different types of texts and the course will finish with a little showcase of our work.
 
 
-[Apply Now]({{ site.baseurl }}/apply)
- 
+<a class="button" href="{{ site.baseurl }}/apply">Apply Now</a>

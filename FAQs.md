@@ -3,6 +3,8 @@ layout: page
 title: FAQs
 ---
 
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp6.jpg)
+
 **I want to change my core course and/or elective course, is this possible?**
 
 If you wish to change your course selections before the start of the programme, please do not hesitate to contact us. You can still change your course selection up until the Wednesday of the first week. However, changes to courses are always subject to availability. 
