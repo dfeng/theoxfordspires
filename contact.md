@@ -12,7 +12,8 @@ title: Contact Us
 **Term-time Address**: St. Catherine's College, Manor Road, Oxford OX1 3UJ, United Kingdom
 
 **Map**:
-![Map](http://kosrae.stcatz.ox.ac.uk/modules/ckeditor/ckfinder/userfiles/files/Col_02A3_1080.jpg)
+<!-- ![Map](http://kosrae.stcatz.ox.ac.uk/modules/ckeditor/ckfinder/userfiles/files/Col_02A3_1080.jpg) -->
+![Map](https://dl.dropboxusercontent.com/u/516841/GlobalME/college.png)
 
 
 <p class="message">
