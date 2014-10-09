@@ -3,7 +3,8 @@ layout: page
 title: Apply
 ---
 
-To apply, please fill out this [form](https://dl.dropboxusercontent.com/u/516841/GlobalME/Application%20Form.pdf) and email the completed form to [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk).
+<!-- To apply, please fill out this [form](https://dl.dropboxusercontent.com/u/516841/GlobalME/Application%20Form.pdf) and email the completed form to [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk). -->
+To apply, please fill out this preliminary [form](https://docs.google.com/forms/d/1Jz-lY1UDlEUDIE48JcEPG4rWDdj0BjsRBo9FK6fXGZQ/viewform?usp=send_form).
 
 ### Visas
 
