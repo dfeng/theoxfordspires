@@ -5,11 +5,11 @@ title: The Details
 
 ![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp2.jpg)
 
-## Oxford Spires Summer School Schedule 2014
+## Oxford Spires Summer School Schedule 2015
 
 ### Dates
 
-August 02 - 15, 2014
+August 02 - 15, 2015
 
 ### Eligibility
 
