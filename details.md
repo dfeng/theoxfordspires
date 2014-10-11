@@ -38,7 +38,7 @@ Residential:     £3,950
 Non-residential: £2,450
 
 <p class="message">
-Prices are exclusive of travel costs to and from the United Kingdom, arrival at and departure from Oxford.
+Prices are exclusive of travel costs to and from the United Kingdom.
 </p>
 
 A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk) for more information.
