@@ -29,7 +29,7 @@ Students need to:
 |19:00-22:00|Activity/Free Time             |
 |23:00      |Check in with the college      |
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp2.jpg)
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/spthedetails.jpg)
 
 ### Price
 
