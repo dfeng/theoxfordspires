@@ -3,7 +3,7 @@ layout: page
 title: The Details
 ---
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp2.jpg)
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/spthedetails.jpg)
 
 ## Oxford Spires Summer School Schedule 2014
 
@@ -44,8 +44,6 @@ Prices are exclusive of travel costs to and from the United Kingdom, arrival at 
 A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk) for more information.
 
 ### Activities and Trips
-
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp3.jpg)
 
 The Oxford Spires acknowledges the importance of striking a balance between academic work and extracurricular activities. We have planned an exciting range of activities for our students to ensure that there is something for everyone.
 

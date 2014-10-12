@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp5.jpg)
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/spcourses.jpg)
 
 Students will stay at St. Catherine’s College. This is an ideal location as it is only a one-minute walk to both the Economics and Law Departments of the University of Oxford.
 
