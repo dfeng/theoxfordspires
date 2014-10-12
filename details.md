@@ -3,13 +3,11 @@ layout: page
 title: The Details
 ---
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/spthedetails.jpg)
-
-## Oxford Spires Summer School Schedule 2014
+## Oxford Spires Summer School Schedule 2015
 
 ### Dates
 
-August 02 - 15, 2014
+August 02 - 15, 2015
 
 ### Eligibility
 
@@ -31,6 +29,8 @@ Students need to:
 |19:00-22:00|Activity/Free Time             |
 |23:00      |Check in with the college      |
 
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sp2.jpg)
+
 ### Price
 
 Residential:     £3,950 
@@ -38,7 +38,7 @@ Residential:     £3,950
 Non-residential: £2,450
 
 <p class="message">
-Prices are exclusive of travel costs to and from the United Kingdom, arrival at and departure from Oxford.
+Prices are exclusive of travel costs to and from the United Kingdom.
 </p>
 
 A limited number of partial scholarships based on academic merit and financial needs are available. Please email the programme office at [info@theoxfordspires.co.uk](mailto:info@theoxfordspires.co.uk) for more information.
