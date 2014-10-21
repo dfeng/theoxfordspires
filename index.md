@@ -39,6 +39,6 @@ Teenagers love to have fun and we endeavour to ensure a balance between academic
   For more information, please check out our Brochure below! Click to download the pdf file.
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklet.png)]("{{ site.baseurl }}/public/The Oxford Spires (English).pdf")
+[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklet.png)]({{ site.baseurl }}/public/The Oxford Spires (English).pdf)
 
 <a class="button" href="{{ site.baseurl }}/apply">Apply Now</a>
