@@ -28,6 +28,9 @@ During the programme students will be challenged to get out of their comfort zon
 ### 3. Experienced and enthusiastic teachers
 
 #### Revi Panidha
+
+![Revi](https://dl.dropboxusercontent.com/u/516841/GlobalME/revi.jpg)
+
 - MPhil in Economics, University of Oxford
 - Master of Science in Economics (MSc), London School of Economics
 
