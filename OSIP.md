@@ -81,10 +81,10 @@ This is an immersion course where lectures will take place between 10-5pm. Group
 
 ## How to apply
 
-Send a copy of your CV together with a short statement on why you would like to join the course to info@axiomtutoring.co.uk.
+Send a copy of your CV together with a short statement on why you would like to join the course to [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk).
  
-For more information on the application, please contact one of our representatives by emailing us at info@theoxfordspires.co.uk or calling at our office number 020 300 497 08.
+For more information on the application, please contact one of our representatives by emailing us at [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk) or calling at our office number 020 300 497 08.
 
 ## Visas
 
-If you are not a British national, please go to www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/ to check your visa requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
+If you are not a British national, please go [here](http://www.ukba.homeoffice.gov.uk/visas-immigration/do-you-need-a-visa/) to check your visa requirements. If you do require a visa, we can write a Letter of Invitation to support your application. 
