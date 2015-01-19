@@ -40,6 +40,7 @@ Shu Shu is currently studying for a Master of Business Administration (MBA) in L
 
 ![Alexis](https://dl.dropboxusercontent.com/u/516841/GlobalME/alexis.jpg)
 
+- PhD candidate, University of Oxford
 - MPhil in Economics, University of Oxford
 - Bachelor of Arts (BA) in Philosophy, Politics and Economics,  University of Durham
 
