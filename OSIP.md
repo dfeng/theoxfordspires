@@ -27,7 +27,7 @@ During the programme students will be challenged to get out of their comfort zon
 
 ### 3. Experienced and enthusiastic teachers
 
-# Revi Panidha
+#### Revi Panidha
 - MPhil in Economics, University of Oxford
 - Master of Science in Economics (MSc), London School of Economics
 
@@ -35,7 +35,7 @@ Revi is an experienced tutor in Economics, Mathematics and Finance, and has taug
 
 His investment philosophy follows closely that of Benjamin Graham, Warren Buffett and the likes. 
 
-# Alexis Grigorieff
+#### Alexis Grigorieff
 
 ![Alexis](https://dl.dropboxusercontent.com/u/516841/GlobalME/alexis.jpg)
 
