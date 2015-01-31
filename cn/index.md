@@ -4,7 +4,7 @@ title: 首页
 lang: cn
 ---
 
-![](https://dl.dropboxusercontent.com/u/516841/GlobalME/ox1.jpg)
+![](https://dl.dropboxusercontent.com/u/516841/GlobalME/sphomepage.jpg)
 
 <p class="lead">
 
