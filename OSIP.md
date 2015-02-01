@@ -83,7 +83,7 @@ This is an immersion course where lectures will take place between 10-5pm. Group
 
 Send a copy of your CV together with a short statement on why you would like to join the course to [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk).
  
-For more information on the application, please contact one of our representatives by emailing us at [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk) or calling at our office number 020 300 497 08.
+For more information on the application, please contact one of our representatives by emailing us at [info@theoxfordspires.co.uk](info@theoxfordspires.co.uk) or calling at our office number +44 (0) 20 300 497 08.
 
 ## Visas
 
