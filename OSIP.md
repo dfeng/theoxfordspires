@@ -70,7 +70,7 @@ July 20 - 31, 2015
 
 ## Tuition Fees
 
-£1,395
+£890
  
 The price includes all the lectures and lecture material and equal ownership to the shared investment fund. If you require help with accommodation we can help you arrange it.  
 
