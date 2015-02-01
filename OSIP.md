@@ -6,7 +6,7 @@ title: Oxford Spires Investment Programme
 The Oxford Spires Investment Programme (OSIP) is designed for students aged 18 and above with an exclusive focus on Value Investments, Economics and Entrepreneurship. Our aim is to provide students with a way of thinking that draws together the most important lessons from these three branches of knowledge. The course is designed to be very practical yet academically rigorous, at the level comparable with top institutions like Oxford and the London School of Economics. During the course students will learn how to open and manage a portfolio, how to analyse a balance sheet, behavioural economics applicable to investment and the importance of execution. By the end of the course, students will have:
 
 - operated a small business in Oxford and generated revenue; and
-- extenslively analysed a few stocks and learnt about human biases. 
+- extensively analysed a few stocks and learnt about human biases. 
 
 ## Why OSIP?
 
