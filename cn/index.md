@@ -41,6 +41,6 @@ lang: cn
 欲知详情, 请查看我们下面的手册！点击下载PDF文件。
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/bookletc.png)](https://dl.dropboxusercontent.com/u/516841/GlobalME/The%20Oxford%20Spires%20%28Simplified%20Chinese%29.pdf)
+[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/bookletc2.png)](https://dl.dropboxusercontent.com/u/516841/GlobalME/Oxford%20Spires%20Brochure%20%28Chinese%29.pdf)
 
 [立刻申请]({{ site.baseurl }}/cn/如何申请)
