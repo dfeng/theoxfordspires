@@ -78,7 +78,7 @@ We understand that students may be forced to cancel their bookings for a number 
 
 Any cancellation must be received in writing and can only be on the following terms:
 
-•	No refund of the £790 deposit will be made under any circumstances;
+•	No refund of the £790 deposit will be made under any circumstances.
 
 •	For cancellations before the course start date, the remaining balance of the course fee less the deposit amount will be proportionally refunded as per the table below:
 
