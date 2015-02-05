@@ -37,7 +37,7 @@ St. Catherine’s College has laundry facilities. Tokens can be purchased from t
 
 Once your place has been confirmed, you will receive a Welcome Pack, which will contain information on what clothes to bring and a list of other packing suggestions.
 
-August is one of the warmest and sunniest months in Oxford. However, it can still sometimes rain quite heavily, so students should remember to pack some warm clothes and waterproof clothing. Recent weather reports and forecasts can be found online at uk.weather.com
+August is one of the warmest and sunniest months in Oxford. However, it can still sometimes rain quite heavily, so students should remember to pack some warm clothes and waterproof clothing. Recent weather reports and forecasts can be found online [here] (http://uk.weather.com).
 
 **Should I bring a mobile phone?**
 
