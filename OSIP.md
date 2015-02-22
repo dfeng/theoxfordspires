@@ -70,8 +70,11 @@ July 20 - 31, 2015
 
 ## Tuition Fees
 
-£890
- 
+Student rate: £590*
+Standard rate: £890
+
+*Student rate applies to all full-time students who are currently enrolled at a University or College anywhere in the world. 
+
 The price includes all the lectures and lecture material and equal ownership to the shared investment fund. If you require help with accommodation we can help you arrange it.  
 
 A limited number of scholarships based on academic merit and financial needs are available. Please email the programme office at info@theoxfordspires.co.uk for more information.
