@@ -9,6 +9,8 @@ title: Home
 The Oxford Spires is a specialised summer school for students aged 16 and above with an exclusive focus on Economics, Business, Law and International Affairs. Our aim is to provide students who hope to attend a top university with a head start!
 </p>
 
+Check out our video [here] (https://www.youtube.com/watch?v=bfRFthP9SMk&feature=youtu.be).
+
 ## Why the Oxford Spires?
 
 It’s simple. Here are five reasons why the Oxford Spires is the number one choice for your summer:
