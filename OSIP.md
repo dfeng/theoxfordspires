@@ -71,7 +71,6 @@ July 20 - 31, 2015
 ## Tuition Fees
 
 Student rate: £590*
-
 Standard rate: £890
 
 *Student rate applies to all full-time students who are currently enrolled at a University or College anywhere in the world. 
