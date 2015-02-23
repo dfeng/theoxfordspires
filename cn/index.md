@@ -41,6 +41,6 @@ lang: cn
 欲知详情, 请查看我们下面的手册！点击下载PDF文件。
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/bookletc2.png)]({{ site.baseurl }}/public/SimplifiedChinese.pdf)
+[![Brochure]({{ site.baseurl }}/public/pdfc.png)]({{ site.baseurl }}/public/SimplifiedChinese.pdf)
 
 [立刻申请]({{ site.baseurl }}/cn/如何申请)

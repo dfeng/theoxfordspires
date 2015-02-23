@@ -41,6 +41,6 @@ lang: hk
 欲知詳情, 請查看我們下面的手冊！點擊下載PDF文件。
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklethk2.png)]({{ site.baseurl }}/public/TraditionalChinese.pdf)
+[![Brochure]({{ site.baseurl }}/public/pdfh.png)]({{ site.baseurl }}/public/TraditionalChinese.pdf)
 
 [立刻申請]({{ site.baseurl }}/cn/如何申請)

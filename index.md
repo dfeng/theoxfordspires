@@ -41,6 +41,6 @@ Teenagers love to have fun and we endeavour to ensure a balance between academic
   For more information, please check out our Brochure below! Click to download the pdf file.
 </p>
 
-[![Brochure](https://dl.dropboxusercontent.com/u/516841/GlobalME/booklet2.png)]({{ site.baseurl }}/public/English.pdf)
+[![Brochure]({{ site.baseurl }}/public/pdfe.png)]({{ site.baseurl }}/public/English.pdf)
 
 <a class="button" href="{{ site.baseurl }}/apply">Apply Now</a>
