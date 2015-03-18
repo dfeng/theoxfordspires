@@ -15,11 +15,11 @@ Yes, students will be awarded an Oxford Spires Summer School Graduation Certific
 
 **When should I arrive for my course?**
 
-The day of arrival is Sunday 03 August 2014. You may arrive any time from 12:00 on the day, though we recommend that you aim to arrive before 17:00, as there is a welcome reception for all new students at this time. When you arrive, you will need to register at the Oxford Spires’ administrative office and sign in. At this point, you will receive your room keys and course information.
+The day of arrival is Sunday 02 August 2015. You may arrive any time from 12:00 on the day, though we recommend that you aim to arrive before 17:00, as there is a welcome reception for all new students at this time. When you arrive, you will need to register at the Oxford Spires’ administrative office and sign in. At this point, you will receive your room keys and course information.
 
 **When should I leave at the end of my course?**
 
-Courses will finish on Saturday 16 August 2014 and students should check out and return their keys by 10:00.
+Courses will finish on Saturday 15 August 2015 and students should check out and return their keys by 10:00.
 
 **Do I need to attend all classes?**
 
@@ -78,7 +78,7 @@ We understand that students may be forced to cancel their bookings for a number 
 
 Any cancellation must be received in writing and can only be on the following terms:
 
-•	No refund of the £790 deposit will be made under any circumstances.
+•	No refund of the deposit will be made under any circumstances.
 
 •	For cancellations before the course start date, the remaining balance of the course fee less the deposit amount will be proportionally refunded as per the table below:
 
