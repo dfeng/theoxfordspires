@@ -24,8 +24,8 @@ permalink:        pretty
 title: The Oxford Spires
 tagline: 'Inspiring Young Minds'
 description:      ''
-baseurl:          ''
-url:              http://theoxfordspires.co.uk
+baseurl:          'theoxfordspires'
+# url:              http://theoxfordspires.co.uk
 
 author:
   name:           'Derek Feng'
